@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6FEDE219-3FA3-405E-98EB-5CA9316B5DE4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StudentTest</RootNamespace>
+    <AssemblyName>StudentTest</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AltJud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltJud.Designer.cs">
+      <DependentUpon>AltJud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AltPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltPwd.Designer.cs">
+      <DependentUpon>AltPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AltSel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AltSel.Designer.cs">
+      <DependentUpon>AltSel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComVal.cs" />
+    <Compile Include="DataClass.cs" />
+    <Compile Include="Exam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Exam.Designer.cs">
+      <DependentUpon>Exam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Examing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Examing.Designer.cs">
+      <DependentUpon>Examing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExSet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExSet.Designer.cs">
+      <DependentUpon>ExSet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QueSc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="QueSc.Designer.cs">
+      <DependentUpon>QueSc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SthInf.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SthInf.Designer.cs">
+      <DependentUpon>SthInf.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StuManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StuManage.Designer.cs">
+      <DependentUpon>StuManage.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltJud.resx">
+      <DependentUpon>AltJud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltPwd.resx">
+      <DependentUpon>AltPwd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AltSel.resx">
+      <DependentUpon>AltSel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Exam.resx">
+      <DependentUpon>Exam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Examing.resx">
+      <DependentUpon>Examing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExSet.resx">
+      <DependentUpon>ExSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="QueSc.resx">
+      <DependentUpon>QueSc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SthInf.resx">
+      <DependentUpon>SthInf.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StuManage.resx">
+      <DependentUpon>StuManage.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timg25ba.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tim58gb56a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timgb25a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_20170621_231841.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMG_20170621_231946.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-3215a9af47ca2c38584ba19b2ca72599.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img-c47071d89f960255ae10e2015ccdfc52.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,38 @@
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.Form1.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.Properties.Resources.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.csproj.GenerateResource.Cache
+E:\VS2010\Project\StudentTest\StudentTest\bin\Debug\StudentTest.exe
+E:\VS2010\Project\StudentTest\StudentTest\bin\Debug\StudentTest.pdb
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.exe
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.pdb
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.Exam.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.Examing.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.AltPwd.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.Admin.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.AltSel.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.AltJud.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.ExSet.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.QueSc.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.StuManage.resources
+E:\VS2010\Project\StudentTest\StudentTest\obj\x86\Debug\StudentTest.SthInf.resources
+D:\C#\StudentTest\StudentTest\obj\x86\Debug\StudentTest.exe
+D:\C#\StudentTest\StudentTest\obj\x86\Debug\StudentTest.pdb
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.csprojResolveAssemblyReference.cache
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.Admin.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.AltJud.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.AltPwd.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.AltSel.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.Exam.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.Examing.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.ExSet.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.Form1.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.Properties.Resources.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.QueSc.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.SthInf.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.StuManage.resources
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.csproj.GenerateResource.Cache
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.csproj.CoreCompileInputs.cache
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.exe
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\obj\x86\Debug\StudentTest.pdb
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\bin\Debug\StudentTest.exe
+D:\C#\Easy Test学生考试系统\Easy Test学生考试系统\Easy Test 项目文件\StudentTest\bin\Debug\StudentTest.pdb
